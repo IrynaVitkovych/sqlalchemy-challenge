@@ -14,6 +14,7 @@ Analysis Includes:
 Utilization of SQLAlchemy, Pandas, and Matplotlib for data exploration and visualization.
 Summary visualizations of rainfall and temperature patterns.
 Support for trip planning with daily precipitation summaries and temperature trends.
+
 Part II: Climate App
 API Endpoints:
 
